@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.exe.config
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.exe
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\bin\Debug\ClubRegistration.pdb
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.Form1.resources
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.FrmUpdateMember.resources
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.Properties.Resources.resources
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.exe
+C:\Users\USER\source\repos\ClubRegistration\ClubRegistration\obj\Debug\ClubRegistration.pdb
